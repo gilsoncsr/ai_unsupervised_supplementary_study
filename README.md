@@ -41,7 +41,6 @@ O modelo foi capaz de identificar padrões fora do comum na base, permitindo que
 
 ### 📁 Projeto 2 – Clusterização de Empresas com GMM + Otimização via Optuna
 
-````markdown
 # Clusterização de Empresas com GMM e Interface Gradio
 
 Este projeto aplica **Gaussian Mixture Models (GMM)** para realizar a clusterização de empresas a partir de atributos como faturamento, localização, inovação e número de funcionários. O projeto também utiliza **Optuna** para otimização dos hiperparâmetros e disponibiliza uma interface em Gradio para uso interativo.
@@ -93,7 +92,6 @@ A base de dados inclui colunas como:
    ```bash
    pip install pandas numpy scikit-learn optuna plotly gradio joblib
    ```
-````
 
 ---
 
@@ -140,7 +138,6 @@ The model successfully identified unusual patterns in the data, allowing the com
 
 ### 📁 Project 2 – Company Clustering with GMM + Optimization via Optuna
 
-````markdown
 # Company Clustering with GMM and Gradio Interface
 
 This project applies **Gaussian Mixture Models (GMM)** to cluster companies based on attributes such as revenue, location, innovation, and number of employees. The project also uses **Optuna** for hyperparameter optimization and provides a Gradio interface for interactive use.
@@ -192,7 +189,6 @@ The dataset includes columns such as:
    ```bash
    pip install pandas numpy scikit-learn optuna plotly gradio joblib
    ```
-````
 
 ---
 
@@ -239,7 +235,6 @@ El modelo fue capaz de identificar patrones inusuales en la base de datos, lo qu
 
 ### 📁 Proyecto 2 – Clusterización de Empresas con GMM + Optimización vía Optuna
 
-````markdown
 # Clusterización de Empresas con GMM e Interfaz Gradio
 
 Este proyecto aplica **Gaussian Mixture Models (GMM)** para realizar la clusterización de empresas a partir de atributos como ingresos, ubicación, innovación y número de empleados. También utiliza **Optuna** para la optimización de hiperparámetros y proporciona una interfaz con Gradio para su uso interactivo.
@@ -291,4 +286,3 @@ La base de datos incluye columnas como:
    ```bash
    pip install pandas numpy scikit-learn optuna plotly gradio joblib
    ```
-````
