@@ -33,8 +33,9 @@ O modelo foi capaz de identificar padrões fora do comum na base, permitindo que
 ## 🚀 Como Executar
 
 1. Instale as dependências:
+
    ```bash
-   pip install pandas scikit-learn
+   pip install -r requirements.txt
    ```
 
 ---
@@ -89,8 +90,10 @@ A base de dados inclui colunas como:
 ## 🚀 Como Executar
 
 1. Instale as dependências:
+
    ```bash
-   pip install pandas numpy scikit-learn optuna plotly gradio joblib
+   pip install -r requirements.txt
+
    ```
 
 ---
@@ -130,8 +133,10 @@ The model successfully identified unusual patterns in the data, allowing the com
 ## 🚀 How to Run
 
 1. Install the dependencies:
+
    ```bash
-   pip install pandas scikit-learn
+   pip install -r requirements.txt
+
    ```
 
 ---
@@ -186,8 +191,9 @@ The dataset includes columns such as:
 ## 🚀 How to Run
 
 1. Install the dependencies:
+
    ```bash
-   pip install pandas numpy scikit-learn optuna plotly gradio joblib
+   pip install -r requirements.txt
    ```
 
 ---
@@ -227,8 +233,10 @@ El modelo fue capaz de identificar patrones inusuales en la base de datos, lo qu
 ## 🚀 Cómo Ejecutar
 
 1. Instala las dependencias:
+
    ```bash
-   pip install pandas scikit-learn
+   pip install -r requirements.txt
+
    ```
 
 ---
@@ -283,6 +291,8 @@ La base de datos incluye columnas como:
 ## 🚀 Cómo Ejecutar
 
 1. Instala las dependencias:
+
    ```bash
-   pip install pandas numpy scikit-learn optuna plotly gradio joblib
+   pip install -r requirements.txt
+
    ```
